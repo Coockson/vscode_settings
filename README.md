@@ -1,0 +1,1 @@
+Download vscode-icons and Signed Dark Pro from the vs code extentions

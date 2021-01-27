@@ -1,0 +1,18 @@
+{
+    "git.confirmSync": false,
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Signed Dark Pro",
+    "editor.tokenColorCustomizations": {
+        "[Signed Dark Pro]": {
+            "textMateRules": [
+                {
+                    "scope": ["comment"],
+                    "settings": {
+                        "foreground": "#207914"
+                    }
+                }
+            ]
+        }
+    }
+}
